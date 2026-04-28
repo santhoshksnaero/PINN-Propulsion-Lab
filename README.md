@@ -17,4 +17,4 @@ Successfully modeled 1D heat diffusion along a variable-length rod.
 
 ##  Next Steps
 - Transition to **1D Nozzle Flow** (Burgers' Equation).
-- Implement **Inverse Problem Solving** to predict material properties from sensor data.
+- Implement **Inverse Problem Solving** to predict material properties from sensor data.(done-https://github.com/santhoshksnaero/Inverse-PINN-Material-prediction-.git)
